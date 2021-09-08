@@ -1,0 +1,19 @@
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\DTO\bin\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\DTO\bin\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\DTO\obj\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\DTO\obj\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\DTO\bin\Debug\DTO.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\DTO\bin\Debug\DTO.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\DTO\obj\Debug\DTO.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\DTO\obj\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\DTO\bin\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\DTO\bin\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\DTO\obj\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\DTO\obj\Debug\DTO.pdb
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\DTO\bin\Debug\DTO.dll
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\DTO\bin\Debug\DTO.pdb
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\DTO\obj\Debug\DTO.dll
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\DTO\obj\Debug\DTO.pdb
