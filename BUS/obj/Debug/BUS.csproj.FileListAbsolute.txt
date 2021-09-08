@@ -1,0 +1,41 @@
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\BUS.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\BUS.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\DAO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\DAO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\obj\Debug\BUS.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\obj\Debug\BUS.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\MySql.Data.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\BUS.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\BUS.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\DAO.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\DTO.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\DAO.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\DTO.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\obj\Debug\BUS.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\obj\Debug\BUS.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\BUS.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\BUS.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\DAO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\MySql.Data.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\DAO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\MySql.Data.xml
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\obj\Debug\BUS.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\obj\Debug\BUS.pdb
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\BUS\bin\Debug\BUS.dll
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\BUS\bin\Debug\BUS.pdb
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\BUS\bin\Debug\DAO.dll
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\BUS\bin\Debug\DTO.dll
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\BUS\bin\Debug\MySql.Data.dll
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\BUS\bin\Debug\DAO.pdb
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\BUS\bin\Debug\DTO.pdb
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\BUS\bin\Debug\MySql.Data.xml
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\BUS\obj\Debug\BUS.dll
+E:\Studio\Windows Form\Source code\Application\Visual C#\Doan_QLBTBDT\BUS\obj\Debug\BUS.pdb
